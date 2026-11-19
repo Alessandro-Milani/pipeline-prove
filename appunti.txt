@@ -1,1 +1,7 @@
 # Pipelines
+
+possiamo fare il deploy automatico tramite una pipeline
+
+per fare pipeline di github:
+creare una cratella ".github"
+    dentro creare cartella "workflows"
